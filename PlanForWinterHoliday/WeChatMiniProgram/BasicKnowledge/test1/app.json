@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/redirect/redirect",
+    "pages/band/band",
+    "pages/login/login"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FFDA89",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "测试"
+  },
+  "tabBar": {
+    "selectedColor": "#17abe3",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "ico/index.png",
+        "selectedIconPath": "ico/selectedindex.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "ico/logs.png",
+        "selectedIconPath": "ico/selectedlogs.png"
+      }
+    ]
+  }
+}

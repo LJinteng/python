@@ -1,0 +1,84 @@
+/* pages/message/message.wxss */
+.body{
+  min-height: 100vh;
+  background-color: #9C9C9C;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body .sbf{
+  padding-bottom: 5rpx;
+}
+.body .sbf .v1{
+  background-color: #ffffff;
+  width: 730rpx;
+  height: 200rpx;
+  border-radius: 8rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.body .sbf .v1 .item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.body .sbf .v1 .item image{
+  width: 80rpx;
+  height: 80rpx;
+  padding-bottom: 16rpx;
+}
+.body .sbf .v1 .item text{
+  font-size: 28rpx;
+}
+.body .xbf{
+  background-color: aqua;
+  display: flex;
+}
+.body .xbf .v1{
+  background-color: #ffffff;
+  display: flex;
+  width: 730rpx;
+  height: 1088rpx;
+  border-radius: 8rpx;
+  flex-direction: column;
+  align-items: center;
+}
+.body .xbf .v1 .item{
+  width: 700rpx;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  padding-top: 80rpx;
+}
+.body .xbf .v1 .item image{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 100%;
+}
+.body .xbf .v1 .item .t{
+  width: 550rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20rpx;
+}
+.body .xbf .v1 .item .t .t1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 5rpx;
+  align-items: center;
+}
+.body .xbf .v1 .item .t .t1 .s1{
+  font-size: 28rpx;
+  font-weight: 600;
+}
+.body .xbf .v1 .item .t .t1 .s2{
+  font-size: 24rpx;
+  color: #9C9C9C;
+}
+.body .xbf .v1 .item .t .t2 text{
+  font-size: 26rpx;
+}

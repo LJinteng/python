@@ -1,0 +1,102 @@
+<!--pages/auction/auction.wxml-->
+<view class="body">
+  <view class="v1">
+    <view class="vs">
+      <view class="vs1">
+        <text>第三场 贵和祥茶道专场</text>
+      </view>
+      <view class="vs2">
+        <view class="zt1">
+          <text>拍卖中</text>
+        </view>
+        <text>300次围观</text>
+      </view>
+      <view class="vs3">
+        <image src="/image/gd1.png" mode=""/>
+      </view>
+      <view class="vs4">
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="v1">
+    <view class="vs">
+      <view class="vs1">
+        <text>第二场 贵和祥茶道专场</text>
+      </view>
+      <view class="vs2">
+        <view class="zt2">
+          <text>拍卖中</text>
+        </view>
+        <text>300次围观</text>
+      </view>
+      <view class="vs3">
+        <image src="/image/gd1.png" mode=""/>
+      </view>
+      <view class="vs4">
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="v1">
+    <view class="vs">
+      <view class="vs1">
+        <text>第一场 贵和祥茶道专场</text>
+      </view>
+      <view class="vs2">
+        <view class="zt2">
+          <text>拍卖中</text>
+        </view>
+        <text>300次围观</text>
+      </view>
+      <view class="vs3">
+        <image src="/image/gd1.png" mode=""/>
+      </view>
+      <view class="vs4">
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+        <view class="item">
+          <image src="/image/gd1.png" mode=""/>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,33 @@
+<!--pages/index/index.wxml-->
+<view class="menu">
+  <view class="item">
+    <image src="/image/jpwz.png" mode=""/>
+    <text>精品文章</text>
+  </view>
+  <view class="item">
+    <image src="/image/xsp.png" mode=""/>
+    <text>小视频</text>
+  </view>
+  <view class="item">
+    <image src="/image/mrt.png" mode=""/>
+    <text>名人堂</text>
+  </view>
+  <view class="item">
+    <image src="/image/gds.png" mode=""/>
+    <text>观点说</text>
+  </view>
+</view>
+<view class="shangpin">
+  <view class="item">
+    <image src="/image/gd1.png" mode=""/>
+    <view class="text">
+      我是你爸哈哈哈哈<text class="span">#新年打卡水电费</text>
+    </view>
+  </view>
+  <view class="item">
+    <image src="/image/gd2.png" mode=""/>
+    <view class="text">
+      我是你爸哈哈哈哈
+    </view>
+  </view>
+</view>
